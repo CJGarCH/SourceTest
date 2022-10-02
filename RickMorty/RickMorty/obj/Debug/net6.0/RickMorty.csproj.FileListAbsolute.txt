@@ -1,0 +1,17 @@
+C:\Users\Camilo García\source\repos\RickMorty\RickMorty\bin\Debug\net6.0\RickMorty.exe
+C:\Users\Camilo García\source\repos\RickMorty\RickMorty\bin\Debug\net6.0\RickMorty.deps.json
+C:\Users\Camilo García\source\repos\RickMorty\RickMorty\bin\Debug\net6.0\RickMorty.runtimeconfig.json
+C:\Users\Camilo García\source\repos\RickMorty\RickMorty\bin\Debug\net6.0\RickMorty.dll
+C:\Users\Camilo García\source\repos\RickMorty\RickMorty\bin\Debug\net6.0\RickMorty.pdb
+C:\Users\Camilo García\source\repos\RickMorty\RickMorty\obj\Debug\net6.0\RickMorty.csproj.AssemblyReference.cache
+C:\Users\Camilo García\source\repos\RickMorty\RickMorty\obj\Debug\net6.0\RickMorty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camilo García\source\repos\RickMorty\RickMorty\obj\Debug\net6.0\RickMorty.AssemblyInfoInputs.cache
+C:\Users\Camilo García\source\repos\RickMorty\RickMorty\obj\Debug\net6.0\RickMorty.AssemblyInfo.cs
+C:\Users\Camilo García\source\repos\RickMorty\RickMorty\obj\Debug\net6.0\RickMorty.csproj.CoreCompileInputs.cache
+C:\Users\Camilo García\source\repos\RickMorty\RickMorty\obj\Debug\net6.0\RickMorty.dll
+C:\Users\Camilo García\source\repos\RickMorty\RickMorty\obj\Debug\net6.0\refint\RickMorty.dll
+C:\Users\Camilo García\source\repos\RickMorty\RickMorty\obj\Debug\net6.0\RickMorty.pdb
+C:\Users\Camilo García\source\repos\RickMorty\RickMorty\obj\Debug\net6.0\RickMorty.genruntimeconfig.cache
+C:\Users\Camilo García\source\repos\RickMorty\RickMorty\obj\Debug\net6.0\ref\RickMorty.dll
+C:\Users\Camilo García\source\repos\RickMorty\RickMorty\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Camilo García\source\repos\RickMorty\RickMorty\obj\Debug\net6.0\RickMorty.csproj.CopyComplete

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "708yIVVByRvALPbnHevVlKv2GPVH21/HM9r54QLrEkdNThjrG0NIN1AsdRPCS+uSqvMPvqNBunIFfRr1J4AgYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Camilo García\\source\\repos\\RickMorty\\RickMorty\\RickMorty.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Camilo García\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
