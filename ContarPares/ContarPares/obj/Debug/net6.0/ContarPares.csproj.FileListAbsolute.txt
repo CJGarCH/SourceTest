@@ -1,0 +1,15 @@
+C:\Users\Camilo García\source\repos\ContarPares\ContarPares\bin\Debug\net6.0\ContarPares.exe
+C:\Users\Camilo García\source\repos\ContarPares\ContarPares\bin\Debug\net6.0\ContarPares.deps.json
+C:\Users\Camilo García\source\repos\ContarPares\ContarPares\bin\Debug\net6.0\ContarPares.runtimeconfig.json
+C:\Users\Camilo García\source\repos\ContarPares\ContarPares\bin\Debug\net6.0\ContarPares.dll
+C:\Users\Camilo García\source\repos\ContarPares\ContarPares\bin\Debug\net6.0\ContarPares.pdb
+C:\Users\Camilo García\source\repos\ContarPares\ContarPares\obj\Debug\net6.0\ContarPares.csproj.AssemblyReference.cache
+C:\Users\Camilo García\source\repos\ContarPares\ContarPares\obj\Debug\net6.0\ContarPares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camilo García\source\repos\ContarPares\ContarPares\obj\Debug\net6.0\ContarPares.AssemblyInfoInputs.cache
+C:\Users\Camilo García\source\repos\ContarPares\ContarPares\obj\Debug\net6.0\ContarPares.AssemblyInfo.cs
+C:\Users\Camilo García\source\repos\ContarPares\ContarPares\obj\Debug\net6.0\ContarPares.csproj.CoreCompileInputs.cache
+C:\Users\Camilo García\source\repos\ContarPares\ContarPares\obj\Debug\net6.0\ContarPares.dll
+C:\Users\Camilo García\source\repos\ContarPares\ContarPares\obj\Debug\net6.0\refint\ContarPares.dll
+C:\Users\Camilo García\source\repos\ContarPares\ContarPares\obj\Debug\net6.0\ContarPares.pdb
+C:\Users\Camilo García\source\repos\ContarPares\ContarPares\obj\Debug\net6.0\ContarPares.genruntimeconfig.cache
+C:\Users\Camilo García\source\repos\ContarPares\ContarPares\obj\Debug\net6.0\ref\ContarPares.dll
