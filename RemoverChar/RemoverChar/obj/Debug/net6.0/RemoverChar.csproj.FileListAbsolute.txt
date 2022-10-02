@@ -1,0 +1,15 @@
+C:\Users\Camilo García\source\repos\RemoverChar\RemoverChar\bin\Debug\net6.0\RemoverChar.exe
+C:\Users\Camilo García\source\repos\RemoverChar\RemoverChar\bin\Debug\net6.0\RemoverChar.deps.json
+C:\Users\Camilo García\source\repos\RemoverChar\RemoverChar\bin\Debug\net6.0\RemoverChar.runtimeconfig.json
+C:\Users\Camilo García\source\repos\RemoverChar\RemoverChar\bin\Debug\net6.0\RemoverChar.dll
+C:\Users\Camilo García\source\repos\RemoverChar\RemoverChar\bin\Debug\net6.0\RemoverChar.pdb
+C:\Users\Camilo García\source\repos\RemoverChar\RemoverChar\obj\Debug\net6.0\RemoverChar.csproj.AssemblyReference.cache
+C:\Users\Camilo García\source\repos\RemoverChar\RemoverChar\obj\Debug\net6.0\RemoverChar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camilo García\source\repos\RemoverChar\RemoverChar\obj\Debug\net6.0\RemoverChar.AssemblyInfoInputs.cache
+C:\Users\Camilo García\source\repos\RemoverChar\RemoverChar\obj\Debug\net6.0\RemoverChar.AssemblyInfo.cs
+C:\Users\Camilo García\source\repos\RemoverChar\RemoverChar\obj\Debug\net6.0\RemoverChar.csproj.CoreCompileInputs.cache
+C:\Users\Camilo García\source\repos\RemoverChar\RemoverChar\obj\Debug\net6.0\RemoverChar.dll
+C:\Users\Camilo García\source\repos\RemoverChar\RemoverChar\obj\Debug\net6.0\refint\RemoverChar.dll
+C:\Users\Camilo García\source\repos\RemoverChar\RemoverChar\obj\Debug\net6.0\RemoverChar.pdb
+C:\Users\Camilo García\source\repos\RemoverChar\RemoverChar\obj\Debug\net6.0\RemoverChar.genruntimeconfig.cache
+C:\Users\Camilo García\source\repos\RemoverChar\RemoverChar\obj\Debug\net6.0\ref\RemoverChar.dll
